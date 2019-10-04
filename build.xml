@@ -6,7 +6,7 @@
    <path id = "classpath.base"/>
 	
    <path id = "classpath.test">
-      <pathelement location = "lib/junit-5.1.1.jar" />
+      <pathelement location = "lib/junit-4.12.jar" />
       <pathelement location = "${testdir}" />
       <pathelement location = "${srcdir}" />
       <path refid = "classpath.base" />
