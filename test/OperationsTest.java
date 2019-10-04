@@ -7,7 +7,7 @@ public class OperationsTest {
 @Test
 public void testSum() {
   Sum mySum = new Sum();
-  int = mySum.sum(1,2);
-  assertEquals("1 + 2 = 3", 3);
+  int mySum.sum(1,2);
+  assertEquals(mySum, 3);
   }
 }
