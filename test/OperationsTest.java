@@ -8,6 +8,6 @@ public class OperationsTest {
 public void testSum() {
   Sum mySum = new Sum();
   int = mySum.sum(1,2);
-  assertEquals(3);
+  assertEquals("1 + 2 = 3", 3);
   }
 }
