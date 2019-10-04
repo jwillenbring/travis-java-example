@@ -16,7 +16,7 @@ class JUnit5TestForTravisExample {
 	void mySecondTestForTravis() {
 		String message = "This test should pass. 4.1 is less than 4.2";
 		System.out.println(message);
-		Assert.assertTrue(message, 4.1 < 4.2)
+		Assert.assertTrue(4.1 < 4.2)
 	}
 
 }
