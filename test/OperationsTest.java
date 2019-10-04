@@ -1,4 +1,4 @@
-package io.github.jwillenbring.travis.example;
+//package io.github.jwillenbring.travis.example;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
