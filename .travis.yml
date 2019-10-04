@@ -6,7 +6,6 @@ jdk:
 before_script:
    - sudo apt-get install ant-optional
 
-script: ./OperationsTest.class
 
 after_success:
-   - find .
+   - ./OperationsTest.class
