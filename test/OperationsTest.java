@@ -6,8 +6,8 @@ public class OperationsTest {
 
 @Test
 public void testSum() {
-  Sum mySum = new Sum();
-  int mySum.sum(1,2);
+  Operations mySum = new Operations();
+  double mySum.sum(1,2);
   assertEquals(mySum, 3);
   }
 }
