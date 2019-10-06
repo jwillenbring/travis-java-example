@@ -8,5 +8,5 @@ before_script:
 
 
 after_success:
-   - ./test/OperationsTest.class
+   - ls
    
