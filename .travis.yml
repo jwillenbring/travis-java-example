@@ -8,5 +8,5 @@ before_script:
 
 
 script:
-   - ant compile && cd test && ./OperationsTest.class
+   - ant compile && cd test && ./OperationsTestRunner.class
    
