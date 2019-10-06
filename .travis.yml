@@ -8,4 +8,4 @@ before_script:
 
 
 after_success:
-   - ./OperationsTest.class
+   - pwd; ls -l; cd test; ./OperationsTest.class
