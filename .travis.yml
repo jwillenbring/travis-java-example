@@ -8,5 +8,5 @@ before_script:
 
 
 after_success:
-   - ls
+   - find .
    
